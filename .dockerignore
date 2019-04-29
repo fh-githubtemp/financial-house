@@ -1,0 +1,7 @@
+.git
+vendor
+.idea
+.editorconfig
+.gitattributes
+.php_cs.cache
+storage/*
